@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="max-w-2xl m-auto px-4 py-6 min-h-screen flex flex-col">
       <a
-        className="text-4xl"
+        className="text-4xl w-10"
         href="https://github.com/Boki87/paybilll-fe-assignment"
         target="_blank"
       >
