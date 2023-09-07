@@ -4,7 +4,7 @@ export const Footer = () => {
   return (
     <footer>
       <p>
-        Assignment for a front end position at{" "}
+        Assignment for a front-end position at{" "}
         <a
           href="https://optima-apps.com/"
           target="_blank"

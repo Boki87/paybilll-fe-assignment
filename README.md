@@ -1,4 +1,4 @@
-# Assignment for a front end position at Optima Apps
+# Assignment for a front-end position at Optima Apps
 
 Working [DEMO]('https://paybill-optima.netlify.app/')
 
