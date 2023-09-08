@@ -4,10 +4,11 @@ Working [DEMO](https://paybill-optima.netlify.app/)
 
 To run the app locally:
 
-```bash
+```shell
 git clone https://github.com/Boki87/paybilll-fe-assignment.git
 cd paybilll-fe-assignment
 npm install
+npm run dev
 ```
 
 Tech used in the assignment:
