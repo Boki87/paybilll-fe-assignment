@@ -1,6 +1,6 @@
 # Assignment for a front-end position at Optima Apps
 
-Working [DEMO]('https://paybill-optima.netlify.app/')
+Working [DEMO](https://paybill-optima.netlify.app/)
 
 To run the app locally:
 
